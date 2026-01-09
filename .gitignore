@@ -1,4 +1,1 @@
-*.DS_Store
-node_modules
-.github/commands/node_modules/
-.github/commands/package-lock.json
+.cache/
